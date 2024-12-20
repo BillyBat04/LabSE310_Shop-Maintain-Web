@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LabSE310\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\viewmodel\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\viewmodel\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\models\\tuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\views\\access\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\views\\access\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\models\\tquocgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\models\\tquocgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|d:\\labse310\\shop maintain\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8C9733-B4F8-44C5-98DF-6B9EAAE15D3D}|Shop Maintain\\Shop Maintain.csproj|solutionrelative:shop maintain\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController1.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Controllers\\UserController1.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Controllers\\UserController1.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Controllers\\UserController1.cs",
+              "RelativeToolTip": "Shop Maintain\\Controllers\\UserController1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:05:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Shop Maintain\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:04:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeProductDetailViewModel.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\ViewModel\\HomeProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\ViewModel\\HomeProductDetailViewModel.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\ViewModel\\HomeProductDetailViewModel.cs",
+              "RelativeToolTip": "Shop Maintain\\ViewModel\\HomeProductDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:02:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Views\\Access\\Register.cshtml",
+              "RelativeDocumentMoniker": "Shop Maintain\\Views\\Access\\Register.cshtml",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Views\\Access\\Register.cshtml",
+              "RelativeToolTip": "Shop Maintain\\Views\\Access\\Register.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:44:21.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Shop Maintain\\Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Shop Maintain\\Views\\Access\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:43:00.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Models\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Models\\RegisterUser.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Models\\RegisterUser.cs",
+              "RelativeToolTip": "Shop Maintain\\Models\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:40:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TUser.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Models\\TUser.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Models\\TUser.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Models\\TUser.cs",
+              "RelativeToolTip": "Shop Maintain\\Models\\TUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:36:04.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Controllers\\AccessController.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Shop Maintain\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:31:59.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "Shop Maintain\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "Shop Maintain\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAsBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:27:32.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Shop Maintain\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "Shop Maintain\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:20:25.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Models\\ProductModels\\Product.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "Shop Maintain\\Models\\ProductModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:03:53.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Shop Maintain\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:59:00.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shop Maintain\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:01:55.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "Shop Maintain\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:47:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "Shop Maintain\\Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "Shop Maintain\\Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T08:13:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Program.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Program.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Program.cs",
+              "RelativeToolTip": "Shop Maintain\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:31:10.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shop Maintain\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shop Maintain\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T07:23:01.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TQuocGium.cs",
+              "DocumentMoniker": "D:\\LabSE310\\Shop Maintain\\Models\\TQuocGium.cs",
+              "RelativeDocumentMoniker": "Shop Maintain\\Models\\TQuocGium.cs",
+              "ToolTip": "D:\\LabSE310\\Shop Maintain\\Models\\TQuocGium.cs",
+              "RelativeToolTip": "Shop Maintain\\Models\\TQuocGium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:47:36.428Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
